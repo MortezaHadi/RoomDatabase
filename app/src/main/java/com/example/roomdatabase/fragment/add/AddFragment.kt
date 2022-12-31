@@ -32,7 +32,6 @@ class AddFragment : Fragment() {
 
         }
 
-
         return view
     }
 
